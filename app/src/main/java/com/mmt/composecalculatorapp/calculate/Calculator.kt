@@ -1,4 +1,4 @@
-package com.mmt.composecalculatorapp
+package com.mmt.composecalculatorapp.calculate
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*

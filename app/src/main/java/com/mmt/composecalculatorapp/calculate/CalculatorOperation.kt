@@ -1,4 +1,4 @@
-package com.mmt.composecalculatorapp
+package com.mmt.composecalculatorapp.calculate
 
 sealed class CalculatorOperation(val symbol: String) {
     object Add: CalculatorOperation("+")

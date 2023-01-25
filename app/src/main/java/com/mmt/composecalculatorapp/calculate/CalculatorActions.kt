@@ -1,4 +1,4 @@
-package com.mmt.composecalculatorapp
+package com.mmt.composecalculatorapp.calculate
 
 sealed class CalculatorActions {
     data class Number(val number: Int): CalculatorActions()

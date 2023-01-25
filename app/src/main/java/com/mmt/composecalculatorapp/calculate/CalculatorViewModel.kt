@@ -1,4 +1,4 @@
-package com.mmt.composecalculatorapp
+package com.mmt.composecalculatorapp.calculate
 
 import androidx.compose.runtime.setValue
 import androidx.compose.runtime.getValue
