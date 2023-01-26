@@ -236,7 +236,7 @@ fun Calculator(
                         .aspectRatio(2f)
                         .weight(2f),
                     onClick = {
-                        onAction(CalculatorActions.Number(1))
+                        onAction(CalculatorActions.Number(0))
                     }
                 )
 
