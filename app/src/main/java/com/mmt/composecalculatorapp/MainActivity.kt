@@ -12,6 +12,7 @@ import androidx.compose.ui.unit.dp
 import com.mmt.composecalculatorapp.animation_counter_text.AnimationCounterDemo
 import com.mmt.composecalculatorapp.calculate.Calculator
 import com.mmt.composecalculatorapp.calculate.CalculatorViewModel
+import com.mmt.composecalculatorapp.nested_scroll.NestedScrollView
 import com.mmt.composecalculatorapp.ui.theme.ComposeCalculatorAppTheme
 import com.mmt.composecalculatorapp.ui.theme.MediumGray
 
@@ -31,7 +32,7 @@ class MainActivity : ComponentActivity() {
 //                        .background(color = MediumGray)
 //                        .padding(16.dp)
 //                )
-                AnimationCounterDemo()
+                NestedScrollView()
             }
         }
     }
